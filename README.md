@@ -1,2 +1,2 @@
 # Algebra-III
-Resolução da atividade avaliativa de Algebra
+Resolução da atividade avaliativa de Algebra no Matlab
